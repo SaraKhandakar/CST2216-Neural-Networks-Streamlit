@@ -31,3 +31,9 @@ cst2216-neural-networks-streamlit/
 ├── runtime.txt
 ├── .gitignore
 └── README.md
+
+## GitHub Repository
+[GitHub Repo Link](https://github.com/SaraKhandakar/CST2216-Neural-Networks-Streamlit)
+
+## Streamlit App Link
+[Streamlit App Link](https://5fmywzpyq8h8mcm7bacngh.streamlit.app/)
