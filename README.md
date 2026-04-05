@@ -5,9 +5,9 @@
 This project modularizes the UCLA Neural Networks Jupyter Notebook into a VS Code project and deploys it using Streamlit Cloud. The application predicts admission chance using neural network models.
 
 ## Dataset
-File: Admission.csv
-Target column: Admit_Chance
-Binary conversion rule: 1 if Admit_Chance >= 0.8 else 0
+- File: Admission.csv  
+- Target column: Admit_Chance  
+- Binary conversion rule: 1 if Admit_Chance >= 0.8 else 0  
 
 ## Project Structure
 
